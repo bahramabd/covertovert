@@ -6,8 +6,6 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
-
 Group Members: Bahram Abdullayev, 2489086; Sabir Aliyev, 2595965;  Group ID: 86
 
 .. toctree::
