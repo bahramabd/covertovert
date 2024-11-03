@@ -7,5 +7,5 @@ def handle_packet(packet):
         packet.show()
 
 print("Listening for ICMP packets...")
-#sniff(filter="icmp", prn=handle_packet, count=1)
+sniff(filter="icmp", prn=handle_packet, count=1)
 print("Exiting after receiving the first ICMP packet.")
